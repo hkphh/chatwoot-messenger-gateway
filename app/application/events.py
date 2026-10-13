@@ -398,6 +398,7 @@ def wire_events(
                 name=name,
                 phone=None,
                 email=None,
+                avatar_url=None,
                 custom_attributes=custom_attributes,
             )
 
